@@ -1,1 +1,1 @@
-# FlappyBird2Player
+# FlappyBird2Player - Nhóm B17 - Lập trình Java
